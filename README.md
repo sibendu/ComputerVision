@@ -1,2 +1,3 @@
-# Distributed Streaming with Python and Kafka
-Source code for a project detailed [here](https://medium.com/@kevin.michael.horan/distributed-video-streaming-with-python-and-kafka-551de69fe1dd) in my blog.
+# Computer Vision - OpenCV
+
+Models are to be downloaded from - https://github.com/OlafenwaMoses/ImageAI/releases/tag/1.0

@@ -46,7 +46,7 @@ def video_feed():
         mimetype='multipart/x-mixed-replace; boundary=frame')
 
 def get_video_stream():
-    
+     
     process_this_frame = True
 
     """
